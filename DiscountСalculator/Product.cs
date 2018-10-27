@@ -2,6 +2,7 @@
 
 namespace DiscountСalculator
 {
+    /* test comments */
     public class Product : IDiscount
     {
         public string Name { get; set; }
